@@ -16,10 +16,22 @@ This Application was written for a MIT Assignment. Intended to convert a front e
 *Home Screen before logging in
 ![createAccount](https://user-images.githubusercontent.com/54951171/191431639-36053a9d-a0c0-4dbe-b9fa-7346b8054b3e.JPG)
 *Create Account
-![login](https://user-images.githubusercontent.com/54951171/191431731-56629258-eafa-45f4-a510-e0e24edd9b57.JPG) ![logout](https://user-images.githubusercontent.com/54951171/191431773-c7e42fea-ffb7-412d-8299-1aedb17d53a6.JPG)
-*Before and After Logging in
-
-
+![useralreadyexists](https://user-images.githubusercontent.com/54951171/191432100-58abdd2c-10b8-4d4e-a760-ff666405de9c.JPG)
+*Create Account Error message 
+![login](https://user-images.githubusercontent.com/54951171/191431731-56629258-eafa-45f4-a510-e0e24edd9b57.JPG) 
+*Before Logging in
+![successfulLogin](https://user-images.githubusercontent.com/54951171/191432028-bd03df4a-746f-45f8-a40b-312d21933d19.JPG)
+*After Logging in
+![depositedscreenshot](https://user-images.githubusercontent.com/54951171/191432217-d143617d-c4b7-4f14-9061-769e692dce32.JPG)
+*After Successful Deposit
+![balancepage](https://user-images.githubusercontent.com/54951171/191432298-7c7aa88d-9651-46a7-a939-a0393b3a2ff5.JPG)
+*Balance Page
+![alldata](https://user-images.githubusercontent.com/54951171/191432348-fe705b3e-f4e5-4c24-b841-7c5a5f534e80.JPG)
+*All Data Page
+![logout](https://user-images.githubusercontent.com/54951171/191432417-0a91343b-e2bd-49bb-bbf5-d8ff478b273a.JPG)
+*After you Click Logout 
+![studio3T](https://user-images.githubusercontent.com/54951171/191432510-ec78a9c8-1705-4aea-97fc-7b691f3f700e.JPG)
+*Studio 3T for MongoDB
 
 # Technology Used
 Front end:
