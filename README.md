@@ -12,8 +12,13 @@ This Application was written for a MIT Assignment. Intended to convert a front e
 7. Download Studio 3T for MongoDB and Docker and start them
 8. Run node index.js in the terminal to start the server and then go to the port that the console log directs you to
 
-![myimage](/homeScreenB4Login.jpg?raw=true)
 ![homeScreenB4Login](https://user-images.githubusercontent.com/54951171/191431464-fe479ec7-0025-4ebd-b299-af8baeb41b30.JPG)
+*Home Screen before logging in
+![createAccount](https://user-images.githubusercontent.com/54951171/191431639-36053a9d-a0c0-4dbe-b9fa-7346b8054b3e.JPG)
+*Create Account
+![login](https://user-images.githubusercontent.com/54951171/191431731-56629258-eafa-45f4-a510-e0e24edd9b57.JPG) ![logout](https://user-images.githubusercontent.com/54951171/191431773-c7e42fea-ffb7-412d-8299-1aedb17d53a6.JPG)
+*Before and After Logging in
+
 
 
 # Technology Used
