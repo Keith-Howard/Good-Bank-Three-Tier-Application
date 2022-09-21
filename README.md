@@ -12,6 +12,9 @@ This Application was written for a MIT Assignment. Intended to convert a front e
 7. Download Studio 3T for MongoDB and Docker and start them
 8. Run node index.js in the terminal to start the server and then go to the port that the console log directs you to
 
+<img src="homeScreenB4Login.jpg" width="350" title="Home Screen">
+
+
 # Technology Used
 Front end:
 -React
