@@ -13,6 +13,8 @@ This Application was written for a MIT Assignment. Intended to convert a front e
 8. Run node index.js in the terminal to start the server and then go to the port that the console log directs you to
 
 ![myimage](/homeScreenB4Login.jpg?raw=true)
+![homeScreenB4Login](https://user-images.githubusercontent.com/54951171/191431464-fe479ec7-0025-4ebd-b299-af8baeb41b30.JPG)
+
 
 # Technology Used
 Front end:
